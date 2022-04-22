@@ -1,3 +1,3 @@
 defaults
 defaultCodec
-	^ GRCodec forEncoding: 'utf-8'
+	^ ZnUTF8Encoder 
